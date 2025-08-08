@@ -1,5 +1,5 @@
 # Hi, I'm Sumit 👋
-Frontend Developer | React.js Enthusiast | Lifelong Learner
+Frontend Developer | React.js | Lifelong Learner
 
 ---
 
@@ -22,5 +22,17 @@ Frontend Developer | React.js Enthusiast | Lifelong Learner
 ![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
+---
+## 📌 Featured Projects
+### 🔹 Typing Speed Tester
+A responsive typing speed test app with timer, accuracy calculation, and leaderboard.  
+Live Demo --> will be added soon
+
+### 🔹 Food Delivery App
+Frontend UI for a food ordering app with menu browsing, cart, and Redux Toolkit integration.  
+🔗 Live Demo --> https://food-delivery-app-react.vercel.app/
 
 
+### 🔹Movie Search App
+Real-time weather search using OpenWeather API with responsive UI.  
+🔗 Live Demo -->https://movie-search-app-seven-ivory.vercel.app/
