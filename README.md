@@ -1,4 +1,4 @@
-# Hi, I'm Sumit 👋
+# Hi, I'm Sumit Bhardwaj👋
 Frontend Developer | React.js | Lifelong Learner
 
 ---
