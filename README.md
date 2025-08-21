@@ -1,5 +1,5 @@
 # Hi, I'm Sumit Bhardwaj👋
-Frontend Developer | React.js | Fast Learner
+Frontend Developer | React.js | Fast Learner | Lifelong Learner
 
 ---
 
